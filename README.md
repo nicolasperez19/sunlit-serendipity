@@ -1,1 +1,1 @@
-# sunlit-serendipity
+# Sunlit Serendipity
